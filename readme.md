@@ -1,5 +1,3 @@
-![kvtie lemon](https://goput.it/xlb.png)
+![kvtie lemon](http://i.imgur.com/kMMlt1q.png)
 
-lemon > $lime
-
-etc
+Personal mod of lime with better kerning, more distinguished characters, and powerline/icon support.
