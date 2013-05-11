@@ -1,8 +1,8 @@
 #Lemon
 
-![lemonchars](http://i.imgur.com/OZ20Ar8.png)
+![lemonchars](http://i.imgur.com/YC3FTZy.png)
 
-![kvtie lemon](http://i.imgur.com/vMZ9gup.png)
+![kvtie lemon](http://i.imgur.com/TQPfn4o.png)
 
 Personal mod of lime with better kerning, more distinguished characters, and powerline/icon support.
 
