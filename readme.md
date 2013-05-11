@@ -18,6 +18,8 @@ My take on Monaco. Overall, it's much less curved than lemon but still retains m
 
 #Note on icons/powerline
 
-To enable powerline support, be sure to set powerline symbols to 'fancy'. To use the icons, hold ctrl-shift; while doing so, press the corresponding number of the desired icon (shown below).
+To enable powerline support, be sure to set powerline symbols to 'fancy'. To use the icons, hold ctrl-shift; while doing so, press the corresponding number of the desired icon (shown below). For convenience, both fonts use the same unicode position for the same characters.
 
-![icons](http://i.imgur.com/lCR0b0H.png)
+![icons-lemon](http://i.imgur.com/JMXAhgA.png)
+
+![icons-uushi](http://i.imgur.com/IouAScQ.png)
