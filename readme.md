@@ -9,9 +9,9 @@ Personal mod of lime with better kerning, more distinguished characters, and pow
 
 #uushi
 
-![uushichars](http://i.imgur.com/dNMsUSF.png)
+![uushichars](http://a.pomf.se/3Cg6-983.png)
 
-![kvtie uushi](http://i.imgur.com/uBHFUPM.png)
+![kvtie uushi](http://a.pomf.se/8Tl3.png)
 
 My take on Monaco. Overall, it's much less curved than lemon but still retains many of the same features and ideas (e.g, readability, icons, etc).
 
