@@ -1,8 +1,8 @@
 #Lemon
 
-![lemonchars](http://i.imgur.com/YC3FTZy.png)
+![lemonchars](http://a.pomf.se/2Bh1.png)
 
-![kvtie lemon](http://i.imgur.com/TQPfn4o.png)
+![kvtie lemon](http://a.pomf.se/9Dt2.png)
 
 Personal mod of lime with better kerning, more distinguished characters, and powerline/icon support.
 
@@ -20,8 +20,8 @@ My take on Monaco. Overall, it's much less curved than lemon but still retains m
 
 To enable powerline support, be sure to set powerline symbols to 'fancy'. To use the icons, enter vim's insert mode and hold ctrl-shift; while doing so, press the corresponding number of the desired icon (shown below). For convenience, both fonts use the same unicode position for the same characters.
 
-![powerline](http://i.imgur.com/BCSttT8.png)
+![powerline](http://a.pomf.se/8Ap9.png)
 
-![icons-lemon](http://a.pomf.se/9Xz4.png)
+![icons-lemon](http://a.pomf.se/6Lh7.png)
 
-![icons-uushi](http://i.imgur.com/IouAScQ.png)
+![icons-uushi](http://a.pomf.se/1Gd4.png)
