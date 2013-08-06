@@ -20,7 +20,7 @@ My take on Monaco. Overall, it's much less curved than lemon but still retains m
 
 To enable powerline support, be sure to set powerline symbols to 'fancy'. To use the icons, enter vim's insert mode and hold ctrl-shift; while doing so, press the corresponding number of the desired icon (shown below). For convenience, both fonts use the same unicode position for the same characters.
 
-![powerline](http://a.pomf.se/8Ap9.png)
+![powerline](http://a.pomf.se/3Ly7.png)
 
 ![icons-lemon](http://a.pomf.se/6Lh7.png)
 
