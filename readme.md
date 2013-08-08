@@ -22,6 +22,6 @@ To enable powerline support, be sure to set powerline symbols to 'fancy'. To use
 
 ![powerline](http://a.pomf.se/3Ly7.png)
 
-![icons-lemon](http://a.pomf.se/6Vc0.png)
+![icons-lemon](https://github-camo.global.ssl.fastly.net/c472cea534ec5f123ceb1c9998010b557e657c84/687474703a2f2f612e706f6d662e73652f364c68372e706e67)
 
 ![icons-uushi](http://a.pomf.se/1Gd4.png)
