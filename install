@@ -1,0 +1,14 @@
+#!/bin/sh
+
+# Create PCF fonts
+for file in *.bdf; do
+    bdftopcf -o "~/.fonts/${file%\.*}.pcf" "$file"
+done
+
+# Create X font register files
+mkfontdir ~/.fonts
+mkfontscale ~/.fonts
+xset +fp ~/.fonts
+xset fp rehash
+fc-cache
+fc-cache -fv
