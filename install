@@ -1,11 +1,11 @@
 #!/bin/sh
 
-# Create PCF fonts
+# create the pcf files
 for file in *.bdf; do
     bdftopcf -o "~/.fonts/${file%\.*}.pcf" "$file"
 done
 
-# Create X font register files
+# install the fonts
 mkfontdir ~/.fonts
 mkfontscale ~/.fonts
 xset +fp ~/.fonts
