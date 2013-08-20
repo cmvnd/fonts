@@ -1,9 +1,13 @@
 #!/bin/sh
 
+#ensure ~/.fonts exists
+if [ -d "~/.fonts" ]; then
+    mkdir ~/.fonts
+fi
+
 # create the pcf files
-for file in *.bdf; do
-    bdftopcf -o "~/.fonts/${file%\.*}.pcf" "$file"
-done
+bdftopcf -o ~/lemon.pcf lemon.bdf
+bdftopcf -o ~/uushi.pcf uushi.bdf
 
 # install the fonts
 mkfontdir ~/.fonts
