@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#ensure ~/.fonts exists
+# ensure ~/.fonts exists
 if [ -d "~/.fonts" ]; then
     mkdir ~/.fonts
 fi
