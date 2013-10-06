@@ -26,6 +26,6 @@ To enable powerline support, be sure to set powerline symbols to 'fancy'. To use
 
 UPDATE: To make things easier on everyone, I added a file in which the icons are readily available for copying and pasting. Enjoy.
 
-![powerline](http://a.pomf.se/3Ly7.png)
+![powerline](http://a.pomf.se/0Oa6.png)
 
 ![icons-lemon](http://a.pomf.se/2Vy3.png)
