@@ -28,6 +28,4 @@ UPDATE: To make things easier on everyone, I added a file in which the icons are
 
 ![powerline](http://a.pomf.se/3Ly7.png)
 
-![icons-lemon](http://a.pomf.se/3Rm5.png)
-
-![icons-uushi](http://a.pomf.se/1Gd4.png)
+![icons-lemon](http://a.pomf.se/2Vy3.png)
