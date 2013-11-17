@@ -28,5 +28,5 @@ UPDATE: To make things easier on everyone, I added a file in which the icons are
 
 ![powerline](http://a.pomf.se/0Oa6.png)
 
-![icons-lemon](http://a.pomf.se/y5c8i.png)
+![icons-lemon](http://a.pomf.se/sf85t.png)
 
