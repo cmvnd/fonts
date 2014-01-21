@@ -1,8 +1,8 @@
 #Lemon
 
-![lemonchars](http://a.pomf.se/2Bh1.png)
+![lemonchars](http://a.pomf.se/hyojpi.png)
 
-![kvtie lemon](http://a.pomf.se/9Dt2.png)
+![kvtie lemon](http://a.pomf.se/vgljse.png)
 
 Personal mod of lime with better kerning, more distinguished characters, and powerline/icon support.
 
@@ -28,5 +28,4 @@ UPDATE: To make things easier on everyone, I added a file in which the icons are
 
 ![powerline](http://a.pomf.se/0Oa6.png)
 
-![icons-lemon](http://a.pomf.se/sf85t.png)
-
+![icons-lemon](http://a.pomf.se/mghqcn.png)
