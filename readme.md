@@ -10,7 +10,7 @@ My take on Monaco. Overall, it's much less curved than lemon but still retains m
 
 #Installation
 
-To install the fonts, simply run the install script provided.
+Available in the AUR, run the install script provided.
 
 #Note on icons/powerline
 
