@@ -16,4 +16,4 @@ Install via the AUR, or run the install script provided.
 
 To enable powerline support, be sure to set powerline symbols to 'fancy'. To use the icons, enter vim's insert mode and hold ctrl-shift (assuming urxvt); while doing so, press the corresponding number of the desired icon. For convenience, both fonts use the same unicode position for the same characters. 
 
-UPDATE: To make things easier on everyone, I added a file in which the icons are readily available for copying and pasting.
+[TTF Version](https://github.com/fennerm/artwiz-lemon-ttf)
