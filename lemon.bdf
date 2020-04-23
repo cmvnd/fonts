@@ -1,5 +1,5 @@
 STARTFONT 2.1
-FONT -benis-lemon-medium-r-normal--10-110-75-75-m-50-ISO10646-1
+FONT -artwiz-lemon-medium-r-normal--10-110-75-75-m-50-ISO10646-1
 SIZE 10 75 75
 FONTBOUNDINGBOX 10 12 -2 -3
 STARTPROPERTIES 26
@@ -18,7 +18,7 @@ SPACING "m"
 AVERAGE_WIDTH 50
 CHARSET_REGISTRY "ISO10646"
 CHARSET_ENCODING "1"
-COPYRIGHT "artwiz, fixed by aleczapka, extra memes added by phallus"
+COPYRIGHT "munk"
 FACE_NAME "lemon"
 WEIGHT 10
 X_HEIGHT 6
@@ -13544,7 +13544,7 @@ BBX 5 5 0 1
 BITMAP
 F8
 A8
-F8
+D8
 88
 F8
 ENDCHAR
