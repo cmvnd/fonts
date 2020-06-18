@@ -18,5 +18,5 @@ To enable powerline support, be sure to set powerline symbols to 'fancy'. To use
 [TTF Version](https://github.com/fennerm/artwiz-lemon-ttf)
 
 
-###Preview
+## Preview
 ![preview](https://raw.githubusercontent.com/mxnkfish/fonts/master/icons_001.png)
