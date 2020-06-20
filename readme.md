@@ -2,7 +2,7 @@
 
 ## lemon
 
-Improved version of artwiz-lime with better kerning, distinct characters, extended unicode support, and in-build icons.
+Improved version of artwiz-lime with better kerning, distinct characters, extended unicode support, and in-built icons.
 
 ## uushi (abandoned)
 
