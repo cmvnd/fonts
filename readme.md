@@ -2,8 +2,7 @@
 
 ## lemon
 
-Personal mod of lime with better kerning, more distinguished characters, and powerline/icon support.
-
+Improved version of artwiz-lime with better kerning, distinct characters, extended unicode support, and in-build icons.
 
 ## uushi (abandoned)
 
