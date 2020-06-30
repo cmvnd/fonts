@@ -14,4 +14,7 @@ Install via the AUR, or run the install script provided.
 
 
 ## Preview
-![preview](https://raw.githubusercontent.com/mxnkfish/fonts/master/icons_001.png)
+vim
+![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/icons_002.png)
+icons
+![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/icons_001.png)
