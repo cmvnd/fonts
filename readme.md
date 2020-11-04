@@ -11,7 +11,8 @@ The icon range for lemon originally began at U+2B8A, but it has been moved to a 
 ![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/icons.png)
 
 ## uushi
-Abandoned tewi mod
+Abandoned [tewi](https://github.com/lucy/tewi-font) mod.
+
 
 # Installation
 
