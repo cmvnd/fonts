@@ -5,6 +5,8 @@
 Improved version of artwiz-lime with better kerning, distinct characters, extended unicode support, Powerline compatibility, and in-built icon characters. The icons begin at U+E000; see picture below.
 
 Fully supported unicode blocks include:
+* Basic Latin
+* Latin-1 Supplement
 * Latin Extended-A
 * Latin Extended-B
 * IPA Extensions
