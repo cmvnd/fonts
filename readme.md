@@ -30,7 +30,7 @@ Partially supported blocks include, among others:
 
 The icon range for lemon originally began at U+2B8A, but it has been moved to the private use area beginning at U+E000. If you used these icons, you will need to adjust any files that use the characters accordingly.
 
-![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/preview/icons.png)
+![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/icons.png)
 
 # antidote
 [cure](https://github.com/whitelynx/artwiz-fonts-wl) mod with lemon-like characters.
@@ -47,10 +47,13 @@ Install via the AUR, or run the install script provided.
 # Previews
 
 ![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/lemon.png)
+
 Basic character set
 
 ![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/ncmpcpp.png)
+
 Greek and Cyrillic support
 
 ![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/antidote.png)
+
 antidote and lemon in polybar
