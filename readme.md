@@ -32,16 +32,17 @@ The icon range for lemon originally began at U+2B8A, but it has been moved to th
 
 ![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/icons.png)
 
+# antidote
+[cure](https://github.com/whitelynx/artwiz-fonts-wl) mod with lemon-like characters.
+
 # uushi
 Abandoned [tewi](https://github.com/lucy/tewi-font) mod.
-
 
 # Installation
 
 Install via the AUR, or run the install script provided.
 
 [TTF Version](https://github.com/fennerm/artwiz-lemon-ttf)
-
 
 # Previews
 
