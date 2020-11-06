@@ -2,7 +2,7 @@
 
 # lemon
 
-Improved version of artwiz-lime with better kerning, distinct characters, extended unicode support, Powerline compatibility, and in-built icon characters. The icons begin at U+E000; see picture below.
+Improved version of artwiz-lime with better kerning, distinct characters, extended unicode support, Powerline compatibility, and in-built icon characters. The icons begin at U+E000; see picture below. New characters are added sporadically.
 
 Fully supported unicode blocks include:
 * Basic Latin
@@ -28,9 +28,9 @@ Partially supported blocks include, among others:
 
 ## Note on icons
 
-The icon range for lemon originally began at U+2B8A, but it has been moved to the private use area beginning at U+E000. You will need to adjust any files that use the characters accordingly.
+The icon range for lemon originally began at U+2B8A, but it has been moved to the private use area beginning at U+E000. If you used these icons, you will need to adjust any files that use the characters accordingly.
 
-![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/icons.png)
+![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/preview/icons.png)
 
 # antidote
 [cure](https://github.com/whitelynx/artwiz-fonts-wl) mod with lemon-like characters.
@@ -46,7 +46,11 @@ Install via the AUR, or run the install script provided.
 
 # Previews
 
-![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/icons_002.png)
+![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/lemon.png)
+Basic character set
 
-![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/icons_001.png)
+![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/ncmpcpp.png)
+Greek and Cyrillic support
 
+![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/antidote.png)
+antidote and lemon in polybar
