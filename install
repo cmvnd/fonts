@@ -5,10 +5,6 @@ if [ ! -d ~/.fonts ]; then
     mkdir ~/.fonts
 fi
 
-# create the pcf files
-bdftopcf -o ~/.fonts/lemon.pcf lemon.bdf
-bdftopcf -o ~/.fonts/uushi.pcf uushi.bdf
-
 # install the fonts
 mkfontdir ~/.fonts
 mkfontscale ~/.fonts

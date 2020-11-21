@@ -2,6 +2,8 @@
 
 # lemon
 
+![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/lemon.png)
+
 Improved version of artwiz-lime with better kerning, distinct characters, extended unicode support, Powerline compatibility, and in-built icon characters. The icons begin at U+E000; see picture below. New characters are added sporadically.
 
 Fully supported unicode blocks include:
@@ -40,20 +42,6 @@ Abandoned [tewi](https://github.com/lucy/tewi-font) mod.
 
 # Installation
 
-Install via the AUR, or run the install script provided.
+Run the install script provided.
 
 [TTF Version](https://github.com/fennerm/artwiz-lemon-ttf)
-
-# Previews
-
-![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/lemon.png)
-
-Basic character set
-
-![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/ncmpcpp.png)
-
-Greek and Cyrillic support
-
-![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/antidote.png)
-
-antidote and lemon in polybar
