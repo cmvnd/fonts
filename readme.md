@@ -47,13 +47,13 @@ Abandoned monaco mod.
 
 Run the install script provided.
 
-# To-do list
+## To-do list
 
 Lemon:
 * Add full support for the character blocks listed above
 * Create an up-to-date .ttf; the [currently available version](https://github.com/fennerm/artwiz-lemon-ttf) is out-of date
 * Include additional previews demonstrating character support
 
-# Credits
+## Credits
 
 This project would not exist without lucy's [tewi](https://github.com/lucy/tewi-font), spectrum's limey, and the [artwiz fonts](http://artwizaleczapka.sourceforge.net/).

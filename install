@@ -5,6 +5,8 @@ if [ ! -d ~/.fonts ]; then
     mkdir ~/.fonts
 fi
 
+cp -t ~/.fonts {*.bdf,*.otb}
+
 # install the fonts
 mkfontdir ~/.fonts
 mkfontscale ~/.fonts
