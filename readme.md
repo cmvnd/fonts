@@ -60,11 +60,11 @@ Run the install script provided.
 
 # To-do list
 
-###Lemon:
+### Lemon:
 * Add full support for the character blocks listed above
 * Include additional previews demonstrating character support
 
-###General:
+### General:
 * Create an up-to-date .ttf for all fonts; the [currently available lemon.ttf](https://github.com/fennerm/artwiz-lemon-ttf) is out-of date
 * Include previews of antidote, uushi, limey, and berry
 * Include character dump file
