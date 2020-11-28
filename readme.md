@@ -31,17 +31,28 @@ Additional blocks I intend to support:
 * Braille
 * Box Drawings
 
-## Note on icons
+### Note on icons
 
 The icon range for lemon originally began at U+2B8A, but it has been moved to the private use area beginning at U+E000. If you used these icons, you will need to adjust any files that use the characters accordingly.
 
 ![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/icons.png)
 
-# antidote
+# Other fonts
+
+### antidote
 artwiz-cure mod with lemon-like characters.
 
-# uushi
+### uushi
 Abandoned monaco mod.
+
+## spectrum-fonts
+Fonts made by [spectrum](https://github.com/speccy), who has been inactive for many years. As they have been all but lost to time, I am including them here to ensure their preservation.
+
+### limey
+artwiz-lime mod that served as the basis for lemon.
+
+### berry
+Monaco mod.
 
 # Installation
 
@@ -51,9 +62,11 @@ Run the install script provided.
 
 Lemon:
 * Add full support for the character blocks listed above
-* Create an up-to-date .ttf; the [currently available version](https://github.com/fennerm/artwiz-lemon-ttf) is out-of date
+* Create an up-to-date .ttf for all fonts; the [currently available version](https://github.com/fennerm/artwiz-lemon-ttf) is out-of date
 * Include additional previews demonstrating character support
+* Include previews of antidote, uushi, limey, and berry
+* Include character dump
 
 ## Credits
 
-This project would not exist without lucy's [tewi](https://github.com/lucy/tewi-font), spectrum's limey, and the [artwiz fonts](http://artwizaleczapka.sourceforge.net/).
+This project would not exist without lucy's [tewi](https://github.com/lucy/tewi-font), spectrum's fonts, and the [artwiz fonts](http://artwizaleczapka.sourceforge.net/).
