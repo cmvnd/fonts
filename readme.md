@@ -37,7 +37,7 @@ Additional blocks I intend to support:
 ![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/preview2.png)
 
 ### Greek and Cyrillic support
-![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/preview2.png)
+![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/preview3.png)
 
 ## Note on icons
 
