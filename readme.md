@@ -68,7 +68,7 @@ Run the install script provided.
 
 # To-do list
 
-### Lemon:
+### lemon:
 * Add full support for the character blocks listed above
 * Adjust icons to support Nerd Fonts -- ???
 
