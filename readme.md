@@ -11,7 +11,6 @@ Fully supported unicode blocks include:
 * Latin Extended-A
 * Latin Extended-B
 * IPA Extensions
-* Greek and Coptic
 * General Punctuation
 * Superscripts and Subscripts
 * Mathematical Operators
@@ -19,6 +18,7 @@ Fully supported unicode blocks include:
 
 Partially supported blocks include, among others:
 * Latin Additional Extended
+* Greek and Coptic
 * Cyrillic
 * Currency Symbols
 * Arrows
@@ -70,6 +70,7 @@ Run the install script provided.
 
 ### Lemon:
 * Add full support for the character blocks listed above
+* Adjust icons to support Nerd Fonts -- ???
 
 ### General:
 * Create an up-to-date .ttf for all fonts; the [currently available lemon.ttf](https://github.com/fennerm/artwiz-lemon-ttf) is out-of date
