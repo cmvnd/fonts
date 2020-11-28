@@ -1,7 +1,7 @@
 
 # lemon
 
-![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/lemon.png)
+![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/preview1.png)
 
 The flagship font. Improved version of artwiz-lime with better kerning, distinct characters, extended unicode support, Powerline compatibility, and in-built icon characters. The icons begin at U+E000; see picture below.
 
@@ -31,7 +31,15 @@ Additional blocks I intend to support:
 * Braille
 * Box Drawings
 
-### Note on icons
+## Additional previews
+
+### Latin character support
+![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/preview2.png)
+
+### Greek and Cyrillic support
+![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/preview2.png)
+
+## Note on icons
 
 The icon range for lemon originally began at U+2B8A, but it has been moved to the private use area beginning at U+E000. If you used these icons, you will need to adjust any files that use the characters accordingly.
 
@@ -62,7 +70,6 @@ Run the install script provided.
 
 ### Lemon:
 * Add full support for the character blocks listed above
-* Include additional previews demonstrating character support
 
 ### General:
 * Create an up-to-date .ttf for all fonts; the [currently available lemon.ttf](https://github.com/fennerm/artwiz-lemon-ttf) is out-of date
