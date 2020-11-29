@@ -78,21 +78,22 @@ Run the install script provided.
 
 ### lemon:
 - [ ] Add full support for the listed character blocks
-  - [ ]Latin Additional Extended
-  - [ ]Greek and Coptic
-  - [ ]Cyrillic
-  - [ ]Currency Symbols
-  - [ ]Arrows
-  - [ ]Miscellaneous Technical
-  - [ ]Enclosed Alphanumerics
-  - [ ]Miscellaneous Symbols
-  - [ ]Dingbats
-  - [ ]Braille
-  - [ ]Box Drawings
+  - [ ] Latin Additional Extended
+  - [ ] Greek and Coptic
+  - [ ] Cyrillic
+  - [ ] Currency Symbols
+  - [ ] Arrows
+  - [ ] Miscellaneous Technical
+  - [ ] Enclosed Alphanumerics
+  - [ ] Miscellaneous Symbols
+  - [ ] Dingbats
+  - [ ] Braille
+  - [ ] Box Drawings
 - [ ] Adjust icons to support Nerd Fonts -- ???
 
 ### General:
 - [ ] Create an up-to-date .ttf for all fonts; the [currently available lemon.ttf](https://github.com/fennerm/artwiz-lemon-ttf) is out-of date
+- [ ] Create "fancy" preview à la [Cozette](https://github.com/slavfox/Cozette)
 - [x] Include previews of antidote, uushi, limey, and berry
 - [ ] Include character dump file
 
