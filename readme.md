@@ -66,7 +66,7 @@ artwiz-lime mod that served as the basis for lemon.
 ![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/limey.png)
 
 ### berry
-Monaco mod.
+monaco mod.
 
 ![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/berry.png)
 
