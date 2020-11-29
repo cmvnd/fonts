@@ -50,8 +50,12 @@ The icon range for lemon originally began at U+2B8A, but it has been moved to th
 ### antidote
 artwiz-cure mod with lemon-like characters.
 
+![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/antidote.png)
+
 ### uushi
 Abandoned monaco mod.
+
+![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/uushi.png)
 
 ## spectrum-fonts
 Fonts made by [spectrum](https://github.com/speccy), who has been inactive for many years. As they have been all but lost to time, I am including them here to ensure their preservation.
@@ -59,8 +63,12 @@ Fonts made by [spectrum](https://github.com/speccy), who has been inactive for m
 ### limey
 artwiz-lime mod that served as the basis for lemon.
 
+![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/limey.png)
+
 ### berry
 Monaco mod.
+
+![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/berry.png)
 
 # Installation
 
@@ -69,13 +77,24 @@ Run the install script provided.
 # To-do list
 
 ### lemon:
-* Add full support for the character blocks listed above
-* Adjust icons to support Nerd Fonts -- ???
+- [ ] Add full support for the listed character blocks
+  - [ ]Latin Additional Extended
+  - [ ]Greek and Coptic
+  - [ ]Cyrillic
+  - [ ]Currency Symbols
+  - [ ]Arrows
+  - [ ]Miscellaneous Technical
+  - [ ]Enclosed Alphanumerics
+  - [ ]Miscellaneous Symbols
+  - [ ]Dingbats
+  - [ ]Braille
+  - [ ]Box Drawings
+- [ ] Adjust icons to support Nerd Fonts -- ???
 
 ### General:
-* Create an up-to-date .ttf for all fonts; the [currently available lemon.ttf](https://github.com/fennerm/artwiz-lemon-ttf) is out-of date
-* Include previews of antidote, uushi, limey, and berry
-* Include character dump file
+- [ ] Create an up-to-date .ttf for all fonts; the [currently available lemon.ttf](https://github.com/fennerm/artwiz-lemon-ttf) is out-of date
+- [x] Include previews of antidote, uushi, limey, and berry
+- [ ] Include character dump file
 
 # Credits
 
