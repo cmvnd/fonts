@@ -39,9 +39,7 @@ Additional blocks I intend to support:
 ### Greek and Cyrillic support
 ![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/preview3.png)
 
-## Note on icons
-
-The icon range for lemon originally began at U+2B8A, but it has been moved to the private use area beginning at U+E000. If you used these icons, you will need to adjust any files that use the characters accordingly.
+### Icons
 
 ![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/icons.png)
 
