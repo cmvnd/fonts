@@ -51,7 +51,7 @@ artwiz-cure mod with lemon-like characters.
 ![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/antidote.png)
 
 ### uushi
-Abandoned monaco mod.
+monaco mod.
 
 ![preview](https://raw.githubusercontent.com/cmvnd/fonts/master/previews/uushi.png)
 
