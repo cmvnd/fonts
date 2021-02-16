@@ -10,26 +10,23 @@ Fully supported unicode blocks include:
 * Latin-1 Supplement
 * Latin Extended-A
 * Latin Extended-B
+* Latin Additional Extended
+* Greek and Coptic
+* Cyrillic
 * IPA Extensions
 * General Punctuation
 * Superscripts and Subscripts
 * Mathematical Operators
 * Geometric Shapes
-
-Partially supported blocks include, among others:
-* Latin Additional Extended
-* Greek and Coptic
-* Cyrillic
 * Currency Symbols
 * Arrows
+
+Partially supported blocks include, among others:
 * Miscellaneous Technical
 * Enclosed Alphanumerics
 * Miscellaneous Symbols
 * Dingbats
 
-Additional blocks I intend to support:
-* Braille
-* Box Drawings
 
 ## Additional previews
 
